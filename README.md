@@ -1,2 +1,2 @@
-[![Powerbute's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github-readme-stats.vercel.app/api?username=paisendevmc&show_icons=true&theme=merko)]
+[![Powerbute's GitHub stats](https://github-readme-stats.vercel.app/api?username=paisendevmc&show_icons=true&theme=merko)]
 
